@@ -1,7 +1,1 @@
-Hello master JOHN!
-
-Your AWESOME git bash..
-
-Yeah sure Master JOHN
-
-Ahh your trying a conversation HUH?
+Hello World?
