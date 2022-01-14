@@ -1,3 +1,1 @@
-I change the text to test editor.
-
-And confirm editor auto change contents!
+Please allow me to commit!
